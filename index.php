@@ -14,7 +14,7 @@
 <div class="main_content">
 <header>
     <div id="logo_div">
-        <img  src="images/1.jpeg" alt="" height=40 width=40>
+        <img  src="images/1.jpeg" alt="" height=120 width=120>
     </div>
 </header>
 <main>
