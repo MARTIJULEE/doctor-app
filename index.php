@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="style/style.css">
     <title>Login Page</title>
 </head>
 <script>
@@ -14,7 +14,7 @@
 <div class="main_content">
 <header>
     <div id="logo_div">
-        <img src="" alt="">
+        <img src="images/1.jpeg" alt="">
     </div>
 </header>
 <main>
